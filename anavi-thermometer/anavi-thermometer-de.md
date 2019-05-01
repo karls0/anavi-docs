@@ -198,6 +198,7 @@ Zum upload von Firmware in das ANAVI Thermometer benötigen sie ein USB zu UART 
 * OneWire (version 2.3.4)
 * DallasTemperature (version 3.8.0)
 * Adafruit Unified Sensor by Adafruit (version 1.0.2)
+* Adafruit BMP085 Unified (version 1.0.0)
 
 *Bemerkung: Wenn sie andere Versionen der Bibliotheken verwenden, kann es zu Problemen kommen.*
 
@@ -336,6 +337,7 @@ Kaufen sie eines der verfügbaren Angebote, arbeiten sie mit dem ANAVI Thermomet
 | --------------- |:-------------------------------------:| :-----------------| :--------------|
 |24 Jänner 2019   | erste Ausgabe                         | Alle              | Leon Anavi     |
 |24 April 2019    | Software Entwicklung - Abhängigkeiten | Kapitel 3         | Leon Anavi     |
+|1 Mai 2019       | Bibliothek für BMP180 hinzugefügt     | Kapitel 3         | Karl Schuh     |
 
 
 ## ANAVI Thermometer Revision
